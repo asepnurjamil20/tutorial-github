@@ -1,3 +1,4 @@
+tutorial git-hub mantap:
 1. buat Repository baru di http://github.com
 2. clone (pojok kanan) copy URL
 3. pada Git Dush ketik
